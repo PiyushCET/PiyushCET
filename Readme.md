@@ -17,7 +17,7 @@
 ## 🔬 Core Mathematics Focus & Academic Timeline
 I am a **Mathematical Graphics Programmer** who naturally bridged discrete coding and analytical geometry without formal coursework in computer graphics. My research avoids black-box rendering libraries entirely. Instead, I write explicit software pipelines that translate continuous calculus, interpolation theory, and coordinate transformations directly into rasterized pixel space.
 
-I am structuring my portfolio for a **PhD track (January 2027 intake)** focusing on computational scientific visualization, geometric modeling, and numerical rendering architectures.
+I am structuring my portfolio for a **PhD track** focusing on computational scientific visualization, geometric modeling, and numerical rendering architectures.
 
 * **Analytical Rasterization:** Mapping continuous algebraic inequalities directly to discrete pixel grids using raw coordinate checking loops instead of polygon meshes.
 * **Numerical Approximation & Spline Modeling:** High-order polynomial trajectory tracking, curve synthesis via multi-point constraints, and explicit boundary optimization.
