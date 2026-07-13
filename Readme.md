@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiyushkumarsahoo&count_bg=%23777777&title_bg=%23282A36&title=Global+Matrix+Hits&edge_flat=true" alt="Global Research Matrix Hits" />
+  <!-- Dynamic Country-Wise Visitor Monitor -->
+  <a href="https://info.flagcounter.com/xK8A"><img src="https://s11.flagcounter.com/map/xK8A/size_m/txt_F8F8F2/border_282A36/pageviews_1/viewers_0/flags_1/" alt="Global Research Visitor Map" border="0"></a>
 </p>
 
 <p align="center">
