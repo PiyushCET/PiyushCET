@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <!-- Dynamic Country-Wise Visitor Monitor -->
+  <a href="https://info.flagcounter.com/xK8A"><img src="https://s11.flagcounter.com/map/xK8A/size_m/txt_F8F8F2/border_282A36/pageviews_1/viewers_0/flags_1/" alt="Global Research Visitor Map" border="0"></a>
+</p>
+
+<p align="center">
   <a href="#-mathematical-focus">🔬 Core Mathematics Focus</a> •
   <a href="#-academic-evolution--research-timeline">📅 Research Timeline</a> •
   <a href="#-low-level-compute-stack">⚡ Tech Stack</a> •
