@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <!-- Dynamic Country-Wise Visitor Monitor -->
-  <a href="https://info.flagcounter.com/xK8A"><img src="https://s11.flagcounter.com/map/xK8A/size_m/txt_F8F8F2/border_282A36/pageviews_1/viewers_0/flags_1/" alt="Global Research Visitor Map" border="0"></a>
+  <!-- Real-time Multi-Country Profile Analytics Counter -->
+  <img src="https://profile-counter.glitch.me/piyushkumarsahoo/count.svg" alt="Global Research Matrix Hits" />
 </p>
 
 <p align="center">
