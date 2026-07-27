@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <!-- Dynamic Country-Wise Visitor Monitor -->
-  <a href="https://info.flagcounter.com/xK8A"><img src="https://s11.flagcounter.com/map/xK8A/size_m/txt_F8F8F2/border_282A36/pageviews_1/viewers_0/flags_1/" alt="Global Research Visitor Map" border="0"></a>
-</p>
-
-<p align="center">
   <a href="#-mathematical-focus">🔬 Core Mathematics Focus</a> •
   <a href="#-academic-evolution--research-timeline">📅 Research Timeline</a> •
   <a href="#-low-level-compute-stack">⚡ Tech Stack</a> •
@@ -19,10 +14,10 @@
 
 ---
 
-## 🔬 Core Mathematics Focus & Academic Timeline
+## 🔬 Core Mathematics Focus & Research Timeline
 I am a **Mathematical Graphics Programmer** who naturally bridged discrete coding and analytical geometry without formal coursework in computer graphics. My research avoids black-box rendering libraries entirely. Instead, I write explicit software pipelines that translate continuous calculus, interpolation theory, and coordinate transformations directly into rasterized pixel space.
 
-I am structuring my portfolio for a **PhD track** focusing on computational scientific visualization, geometric modeling, and numerical rendering architectures.
+I am structuring my portfolio around **advanced applied research** focusing on computational scientific visualization, geometric modeling, and numerical rendering architectures.
 
 * **Analytical Rasterization:** Mapping continuous algebraic inequalities directly to discrete pixel grids using raw coordinate checking loops instead of polygon meshes.
 * **Numerical Approximation & Spline Modeling:** High-order polynomial trajectory tracking, curve synthesis via multi-point constraints, and explicit boundary optimization.
@@ -30,12 +25,12 @@ I am structuring my portfolio for a **PhD track** focusing on computational scie
 
 ---
 
-## 📅 Academic Evolution & Research Timeline
+## 📅 Applied Evolution & Research Timeline
 My path into computer graphics was entirely reverse-engineered from first principles. By analyzing the discrete spatial harmony of coordinate grids on pen and paper, I transitioned step-by-step from structural geometry to optical physics and numerical interpolation.
 
 ### Phase 1: Discrete Matrix Symmetry & Space-Folding
 * **November 2019 | The Matrix Genesis:** Challenged by a standard textbook diamond pattern, I abandoned normal step-counter loops. Instead, I mapped out an $n \times n$ matrix on paper to find the exact algebraic relationship between coordinates where asterisks were printed.
-* **The Geometry Breakthrough:** Discovered that applying an absolute modulus transformation ($|x|, |y|$) to loop vectors executed a **space-folding reflection**. By mathematically folding Quadrants II, III, and IV directly onto Quadrant I, I realized a single continuous inequality constraint could render a completely symmetric 2D figure simultaneously across all axes.
+* **The Geometry Breakthrough:** Discovered that applying an absolute modulus transformation ($\vert{}x\vert{}, \vert{}y\vert{}$) to loop vectors executed a **space-folding reflection**. By mathematically folding Quadrants II, III, and IV directly onto Quadrant I, I realized a single continuous inequality constraint could render a completely symmetric 2D figure simultaneously across all axes.
 
 ### Phase 2: Implicit Modeling & Transcendental Curves
 * **January 2020 | Implicit Boundaries:** Advanced to graphing equation-driven constraints, utilizing continuous equations of circles and implicit boundaries to render compound mathematical shapes without relying on edge-vertex meshes.
@@ -48,7 +43,7 @@ My path into computer graphics was entirely reverse-engineered from first princi
 
 ### Phase 4: Parametric Curves & Scientific Visualization Strategy
 * **April 2021 | Numerical Path Approximation:** Integrated my formal B.Sc. Mathematics training (2018) directly into my graphics pipeline. Rather than approximating arbitrary vectors, I built a curve-rendering engine that evaluates 4-point constraint arrays using explicit **Lagrange polynomial interpolation matrices**.
-* **March 2026 | The Geometry Processing Realization:** After consulting with academic researchers in scientific visualization and computational geometry, I realized my self-derived rendering frameworks perfectly mirror the industrial paradigms of **Geometry Processing**. I successfully migrated my original core implementations into an optimized Python pipeline framework to make my research open, interactive, and reproducible for the global scientific community.
+* **March 2026 | The Geometry Processing Realization:** After consulting with technical researchers in scientific visualization and computational geometry, I realized my self-derived rendering frameworks perfectly mirror the industrial paradigms of **Geometry Processing**. I successfully migrated my original core implementations into an optimized Python pipeline framework to make my research open, interactive, and reproducible for the global scientific community.
 
 ---
 
